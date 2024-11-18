@@ -5,7 +5,7 @@ When I am not coding, you can find me scribbling on my Instagram page.
 <br>
 I have completed my undergraduate degree in Electronics and communications, but I always wanted to learn to code. I have gained knowledge of frontend and backend technologies and I would like to use my technical knowledge to generate solutions to problems.</p>
 - 📫 you can reach me at: <strong>jainshubhi328@gmail.com</strong>
-
+<p>My tech stack includes : **html**, **css**, **javascript**, **css tailswind**, **React**, **framer-motion**, **Redux**, **zustand**,**express js**, **node js**, **mongoDB**, **MySQL** and **java**.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shubhi-j-ab2090202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhi-j-ab2090202" height="30" width="40" /></a>
