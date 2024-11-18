@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubhi Jain</h1>
-<p font='24'> I am an engineer and a writer.
+<p font='32'> I am an engineer and a writer.
 <br>
 When I am not coding, you can find me scribbling on my Instagram page.
 <br>
